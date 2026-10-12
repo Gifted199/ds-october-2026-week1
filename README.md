@@ -39,4 +39,4 @@ The project aims to demonstrate how machine learning can support customer retent
 
 Rather than treating every customer equally, a company could use churn predictions to prioritise customers for further investigation and targeted retention initiatives.
 
-The model's predictions should be validated before being used in business operations, and the effectiveness of any retention strategy should be measured through an appropriate pilot. Predicting churn does not, by itself, guarantee that a customer can be retained.
+The model's predictions should be validated before being used in business operations, and the effectiveness of any retention strategy should be measured through an appropriate pilot.
